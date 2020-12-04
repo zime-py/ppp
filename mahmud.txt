@@ -1,7 +1,11 @@
 i am mahmud
+<<<<<<< HEAD
 you are who?
 i am mahmud
 you are who?i am mahmud
 you are who?i am mahmud
 you are who?i am mahmud
 you are who?s
+=======
+i am hossain
+>>>>>>> 8849987ca1480ab828be4fe461eaca5689920f19
